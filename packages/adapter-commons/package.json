@@ -41,14 +41,14 @@
     "access": "public"
   },
   "dependencies": {
-    "@feathersjs/commons": "^4.5.5",
-    "@feathersjs/errors": "^4.5.5",
-    "@feathersjs/feathers": "^4.5.5"
+    "@feathersjs/commons": "^4.5.7",
+    "@feathersjs/errors": "^4.5.7",
+    "@feathersjs/feathers": "^4.5.7"
   },
   "devDependencies": {
     "@types/mocha": "^8.0.0",
     "@types/mongodb": "^3.5.25",
-    "@types/node": "^14.0.23",
+    "@types/node": "^14.0.26",
     "mocha": "^8.0.1",
     "mongodb": "^3.5.9",
     "shx": "^0.3.2",
