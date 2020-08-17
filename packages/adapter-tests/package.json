@@ -38,8 +38,8 @@
     "access": "public"
   },
   "devDependencies": {
-    "@feathersjs/errors": "^4.5.7",
-    "@feathersjs/feathers": "^4.5.7",
+    "@feathersjs/errors": "^4.5.8",
+    "@feathersjs/feathers": "^4.5.8",
     "feathers-memory": "^4.1.0",
     "mocha": "^8.1.1"
   },
